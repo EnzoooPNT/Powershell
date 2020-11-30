@@ -12,4 +12,4 @@ Dans un shell * nix, tout est basé sur du texte, donc la sortie d'une commande 
 
 La conséquence de ceci est que le transfert d'une commande à une autre ne consiste pas simplement à envoyer stdout vers stdin. Il envoie un objet .net à part entière au récepteur. Par conséquent, le récepteur a juste besoin de savoir comment gérer un objet de ce type. Il n'a pas besoin d'implémenter d'analyse de texte, mais il doit comprendre comment appeler des méthodes et des propriétés (membres) de l'objet d'entrée.
 
-Dans un programme en ligne de commande * nix, vous écririez du code qui lit depuis stdin et analyse ses informations à partir du texte généré par un autre programme. Dans PowerShell, vous feriez quelque chose comme ceci:
+Dans un programme en ligne de commande * nix, vous écririez du code qui lit depuis stdin et analyse ses informations à partir du texte généré par un autre programme.
