@@ -17,4 +17,4 @@ II. [Inconvénients](https://github.com/EnzoooPNT/Powershell/blob/main/Inconv%C3
 5.[Synthaxe](https://github.com/EnzoooPNT/Powershell/blob/main/Synthaxe.md)
 
 ### 6. Mon projet
-I. [Mes débuts](
+I. [Mes débuts](https://github.com/EnzoooPNT/Powershell/blob/main/mesd%C3%A9buts.md)
