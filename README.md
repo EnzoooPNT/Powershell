@@ -15,4 +15,4 @@ I. [Avantages](https://github.com/EnzoooPNT/Powershell/blob/main/Avantage.md)
 II. [Inconvénients](https://github.com/EnzoooPNT/Powershell/blob/main/Inconv%C3%A9nients.md)
 
 5. [Quand utiliser powershell  ?](https://github.com/EnzoooPNT/Powershell/blob/main/Quand%20utiliser%20powershell.md)
-6.[Synthaxe](
+6.[Synthaxe](https://github.com/EnzoooPNT/Powershell/blob/main/Synthaxe.md)
