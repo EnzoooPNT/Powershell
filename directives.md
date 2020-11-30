@@ -1,1 +1,3 @@
+Quelques idées ...
 
+Dans un premier temps je me suis interesé au script de powershell 
