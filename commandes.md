@@ -116,6 +116,12 @@ Alias           type -> Get-Content
 Alias           where -> Where-Object                                         
 Alias           wjb -> Wait-Job  
 
+
+
+get-command	Afficher toutes les commandes
+get-command -type cmdlet	Afficher toutes les commandes de type cmdlet
+get-command Get*	Afficher toutes les commandes en Get
+
 Avec get-command  on obtient toutes les commands.
 
 Il y en a des différents types :
