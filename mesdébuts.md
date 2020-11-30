@@ -1,4 +1,6 @@
-Etant sur mac , j'étais sensé en toute logique commencer sur du shell, mais avec le peu de connaissance en début de chapitre j'ai installé powershell alors que je pouvais tout à fDDait utiliser le shell, cependant l'installation a trèsb bien fonctionn,  j'ai donc continué sur cette lancé  (powershell sur mac
+Pourquoi powershell ? 
+
+Etant sur mac , j'étais sensé en toute logique commencer sur du shell, mais avec le peu de connaissance en début de chapitre j'ai installé powershell alors que je pouvais tout à fDDait utiliser le shell, cependant l'installation a trèsb bien fonctionn,  j'ai donc continué sur cette lancé  (powershell sur mac)
 
 Comment est-je installé  powershell sur mac ? 
 
