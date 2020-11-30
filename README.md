@@ -11,4 +11,5 @@ II. [Utilisateurs et groupes ](https://github.com/EnzoooPNT/Powershell/blob/main
 
 ### 4. Avantages - Inconvénients
 I. [Avantages] (https://github.com/EnzoooPNT/Powershell/blob/main/Avantage.md)
-II. [Inconvénients] (
+
+II. [Inconvénients] (https://github.com/EnzoooPNT/Powershell/blob/main/Inconv%C3%A9nients.md)
