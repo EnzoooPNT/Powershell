@@ -1,1 +1,1 @@
-
+PowerShell ne peut pas afficher les caractères Unicode lorsqu'il est utilisé au travers de Windows console subsystem. Un contournement pour y arriver consiste à utiliser PowerShell ISE, une interface graphique9.
