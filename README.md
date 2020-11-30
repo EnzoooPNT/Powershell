@@ -13,3 +13,5 @@ II. [Utilisateurs et groupes ](https://github.com/EnzoooPNT/Powershell/blob/main
 I. [Avantages](https://github.com/EnzoooPNT/Powershell/blob/main/Avantage.md)
 
 II. [Inconvénients](https://github.com/EnzoooPNT/Powershell/blob/main/Inconv%C3%A9nients.md)
+
+5. [Quand utiliser powershell  ?](
