@@ -5,4 +5,4 @@
 2. [Aitecture](http://)
 
 ### 3. Lignes de commandes 
-1. [Commandes génériques](http:// https://github.com/EnzoooPNT/Powershell/blob/main/commandes.md)
+1. [Commandes génériqe](https://github.com/EnzoooPNT/Powershell/blob/main/commandes.md)
