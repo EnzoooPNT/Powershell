@@ -5,7 +5,7 @@
 2. [Aitecture](http://)
 
 ### 3. Lignes de commandes 
-I. [Commandes générique](https://github.com/EnzoooPNT/Powershell/blob/main/commandes
+I. [Commandes générique](https://github.com/EnzoooPNT/Powershell/blob/main/commandes)
 
 II. [Utilisateurs et groupes ](https://github.com/EnzoooPNT/Powershell/blob/main/Utilisateurs%26groupes.md)
 
