@@ -12,6 +12,8 @@ pwsh --> ensuite j'ai rentré cette commande pour savoir si on installation a fo
 
 Une fois cela fait , dans mes applications j'ai obtenu directement powershell.
 
+Comment ouvrir powershell ? 
+
 Il y a deux solutions pour ouvrir powershell directment sur mon terminal .
 
 -La première  est de  rentrer dans le terminal  : /usr/local/microsoft/powershell/7/pwsh 
