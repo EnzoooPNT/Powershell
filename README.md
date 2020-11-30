@@ -18,3 +18,5 @@ II. [Inconvénients](https://github.com/EnzoooPNT/Powershell/blob/main/Inconv%C3
 
 ### 6. Mon projet
 I. [Mes débuts](https://github.com/EnzoooPNT/Powershell/blob/main/mesd%C3%A9buts.md)
+
+II. [Mes premières directives](
