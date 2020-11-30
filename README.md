@@ -10,6 +10,6 @@ I. [Commandes génériqe](https://github.com/EnzoooPNT/Powershell/blob/main/comm
 II. [Utilisateurs et groupes ](https://github.com/EnzoooPNT/Powershell/blob/main/Utilisateurs%26groupes.md)
 
 ### 4. Avantages - Inconvénients
-I. [Avantages] (https://github.com/EnzoooPNT/Powershell/blob/main/Avantage.md)
+I. [Avantages](https://github.com/EnzoooPNT/Powershell/blob/main/Avantage.md)
 
 II. [Inconvénients](https://github.com/EnzoooPNT/Powershell/blob/main/Inconv%C3%A9nients.md)
