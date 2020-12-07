@@ -19,6 +19,7 @@ Set-ExecutionPolicy Unrestricted
 # Importe le module AD
 Import-Module ActiveDirectory
 
+PHOTO
 
 
 
@@ -35,6 +36,8 @@ LE SCRIPT :
 
 
 $LockedAccount = Search-ADAccount -UsersOnly -AccountInactive -TimeSpan 90.00:00:00 -SearchBase "OU=Users,DC=Domaine,DC=Local" | Where {$_.enabled}
+
+PHOT0
 
 
 
@@ -81,7 +84,7 @@ $body = "
 
 Send-MailMessage -smtpserver $smtpserver -from $from -to $to -subject $subject -body $body -bodyasHTML -priority High
 
-
+PHOTO
 
 
 LE SCRIPT FINAL EST LE SUIVANT : 
