@@ -2,7 +2,7 @@
 # Sommaire 
 1. [L'Histoire de Powershell](https://github.com/EnzoooPNT/Powershell/blob/main/histoire.md)
 
-2. [Aitecture](http://)
+2. [Architecture](http://)
 
 ### 3. Lignes de commandes 
 I. [Commandes générique](https://github.com/EnzoooPNT/Powershell/blob/main/commandes.md)
