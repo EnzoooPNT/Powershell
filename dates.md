@@ -1,6 +1,6 @@
 Quelques dates..
 
-- À l'origine, il était prévu que l'environnement Windows PowerShell soit inclus dans Windows Vista, mais finalement les deux logiciels ont été disjoints. Microsoft a publié une version beta le 11 septembre 2005.
+-À l'origine, il était prévu que l'environnement Windows PowerShell soit inclus dans Windows Vista, mais finalement les deux logiciels ont été disjoints. Microsoft a publié une version beta le 11 septembre 2005.
 
 -La version finale a été publiée le 14 novembre 2006.
 
