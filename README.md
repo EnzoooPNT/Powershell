@@ -1,5 +1,5 @@
 # Powershell
-# Sommaire 
+## Sommaire 
 ### 1. Powershell
 I. [C'est quoi Powershell ?](https://github.com/EnzoooPNT/Powershell/blob/main/histoire.md)
 
