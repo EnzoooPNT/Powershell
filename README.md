@@ -12,6 +12,6 @@ II. [Les variables d'environnement ](https://github.com/EnzoooPNT/Powershell/blo
 5.[Synthaxe](https://github.com/EnzoooPNT/Powershell/blob/main/Synthaxe.md)
 
 ### 6. Mon projet
-I. [Mes débuts](https://github.com/EnzoooPNT/Powershell/blob/main/mesd%C3%A9buts.md)
+I. [Un début difficile](https://github.com/EnzoooPNT/Powershell/blob/main/mesd%C3%A9buts.md)
 
 II. [Mes premières directives](https://github.com/EnzoooPNT/Powershell/blob/main/directives.md)
