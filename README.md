@@ -7,7 +7,7 @@ II. [Quelques dates..](https://github.com/EnzoooPNT/Powershell/blob/main/dates.m
 
 III. [Pourquoi utiliser Powershell ?](https://github.com/EnzoooPNT/Powershell/blob/main/utilisation.md)
 
-IV. [Shell ou Powershell ?]()
+IV. [Shell ou Powershell ?](https://github.com/EnzoooPNT/Powershell/blob/main/ShellPowershell.md)
 
 ### 2. Les variables
 I. [Les variables Powershell](https://github.com/EnzoooPNT/Powershell/blob/main/commandes.md)
