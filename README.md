@@ -5,7 +5,7 @@ I. [C'est quoi Powershell ?](https://github.com/EnzoooPNT/Powershell/blob/main/h
 
 II. [Quelques dates..](https://github.com/EnzoooPNT/Powershell/blob/main/dates.md)
 
-III. [Pourquoi utiliser Powershell ?]()
+III. [Pourquoi utiliser Powershell ?](https://github.com/EnzoooPNT/Powershell/blob/main/utilisation.md)
 
 IV. [Shell ou Powershell ?]()
 
