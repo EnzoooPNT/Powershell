@@ -1,6 +1,6 @@
 # Powershell
 # Sommaire 
-1. [L'Histoire de Powershell](https://github.com/EnzoooPNT/Powershell/blob/main/histoire.md)
+1. [Powershell](https://github.com/EnzoooPNT/Powershell/blob/main/histoire.md)
 
 ### 2. Les variables
 I. [Les variables Powershell](https://github.com/EnzoooPNT/Powershell/blob/main/commandes.md)
