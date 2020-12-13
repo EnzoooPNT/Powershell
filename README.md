@@ -3,7 +3,7 @@
 1. [L'Histoire de Powershell](https://github.com/EnzoooPNT/Powershell/blob/main/histoire.md)
 
 ### 2. Les variables
-I. [Les variabkles Powershell](https://github.com/EnzoooPNT/Powershell/blob/main/commandes.md)
+I. [Les variables Powershell](https://github.com/EnzoooPNT/Powershell/blob/main/commandes.md)
 
 II. [Les variables d'environnement ](https://github.com/EnzoooPNT/Powershell/blob/main/Utilisateurs%26groupes.md)
 
