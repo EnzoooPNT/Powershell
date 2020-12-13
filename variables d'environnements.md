@@ -15,4 +15,4 @@ Portée du processus
 La portée du processus contient les variables d’environnement disponibles dans le processus en cours, ou la session PowerShell. Cette liste de variables est héritée du processus parent et est construite à partir des variables dans les étendues de l' ordinateur et de l' utilisateur . Les plateformes UNIX disposent uniquement de l’étendue du processus .
 Vous pouvez afficher et modifier les valeurs des variables d’environnement sans utiliser une applet de commande à l’aide d’une syntaxe de variable avec le fournisseur de l’environnement. 
 
-Pour afficher la valeur d’une variable d’environnement, utilisez la syntaxe suivante :  <variable-name>
+Pour afficher la valeur d’une variable d’environnement, utilisez la syntaxe suivante :  variable-name
