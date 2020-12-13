@@ -3,11 +3,11 @@
 ### Powershell
 I. [C'est quoi Powershell ?](https://github.com/EnzoooPNT/Powershell/blob/main/histoire.md)
 
-II. [Quelques dates..](https://)
+II. [Quelques dates..](https://github.com/EnzoooPNT/Powershell/blob/main/dates.md)
 
-III. [Pourquoi utiliser Powershell ?](https://)
+III. [Pourquoi utiliser Powershell ?]()
 
-IV. [Shell ou Powershell ?](https://)
+IV. [Shell ou Powershell ?]()
 
 ### 2. Les variables
 I. [Les variables Powershell](https://github.com/EnzoooPNT/Powershell/blob/main/commandes.md)
