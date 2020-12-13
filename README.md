@@ -14,7 +14,7 @@ I. [Les variables Powershell](https://github.com/EnzoooPNT/Powershell/blob/main/
 
 II. [Les variables d'environnement ](https://github.com/EnzoooPNT/Powershell/blob/main/Utilisateurs%26groupes.md)
 
-### 3. [Les “cmdlet”]
+### 3. Les “cmdlet”
 I. [Les applets de commandes “cmdlet”](https://github.com/EnzoooPNT/Powershell/blob/main/Lesappletsdecommandescmdlet.md)
 
 ### 4. Mon projet
