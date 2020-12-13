@@ -1,12 +1,12 @@
 Les variables dans Powershell:
 
-A quoi sert-elle ?
+A quoi servent-elles ?
 
 Les variables sont utilisées pour stocker des valeurs.
 
-Ou les stocker ?
+Où les stocker ?
 
-Soit la valeur de n'importe quel type, nous devons la stocker quelque part afin de pouvoir l'utiliser dans toute la console / le script. Les noms de variable dans PowerShell commencent par $.
+Soit la valeur de n'importe quels types, nous devons la stocker quelque part afin de pouvoir l'utiliser dans toute la console / le script. Les noms de variable dans PowerShell commencent par $.
 
 Quelles sont les variables en questions ? 
 
