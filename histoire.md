@@ -1,12 +1,18 @@
-Windows PowerShell est le successeur des interfaces en ligne de commande DOS/Windows fournies par
+C'est quoi powershell ?
 
-command.com (c'est-à-dire l'interface MS-DOS) de Windows Me, Windows 98 et de ses prédécesseurs ;
-cmd.exe de Windows NT depuis 1993.
-On peut aussi mentionner Windows Scripting Host (WSH), introduit en 1998, qui connut un certain succès auprès des administrateurs mais ne permet pas une utilisation interactive : les scripts peuvent être appelés depuis la ligne de commande, mais ils doivent être préalablement enregistrés dans un fichier. Aucune de ces interfaces n'est conforme à POSIX 2 (POSIX étant une norme faite pour les shells Unix qui eux ne sont pas orientés objet mais plutôt flux de texte à décomposer et à interpréter).
+Windows PowerShell, anciennement Microsoft Command Shell (MSH), nom de code Monad, est une suite logicielle développée par Microsoft qui intègre une interface en ligne de commande, un langage de script nommé PowerShell ainsi qu'un kit de développement. Il est inclus dans Windows 7, Windows 8.1 et Windows 10 (y compris les versions grand public) et s'appuie sur le framework Microsoft .NET.
+
+Quelques dates..
+
+- À l'origine, il était prévu que l'environnement Windows PowerShell soit inclus dans Windows Vista, mais finalement les deux logiciels ont été disjoints. Microsoft a publié une version beta le 11 septembre 2005.
+
+-La version finale a été publiée le 14 novembre 2006.
+
+-Depuis le 24 mars 2009, Windows PowerShell 1.0 pour Windows XP et Vista est distribué comme une mise à jour logicielle facultative par le service Windows Update de Microsoft. Powershell est intégré nativement dans Windows 7 en version 2.0
 
 Powershell ou shell ? 
 
-PowerShell est superficiellement similaire aux shells Unix. PowerShell a des alias pour la plupart des commandes auxquelles vous êtes habitué sous Unix, comme ls, rm, cp, mv, etc. Cependant, la façon dont les applets de commande derrière les alias fonctionnent est assez différente.
+PowerShell est superficiellement similaire aux shells Unix. Il a des alias pour la plupart des commandes auxquelles vous êtes habitué sous Unix, comme ls, rm, cp, mv, etc. Cependant, la façon dont les applets de commande derrière les alias fonctionnent est assez différente.
 
 Dans un shell * nix, tout est basé sur du texte, donc la sortie d'une commande peut être redirigée vers une autre, mais le programme récepteur doit savoir comment analyser / interpréter le texte du pipeline. C'est la principale différence entre les shells PowerShell et * nix ... dans PowerShell, tout ce qui est transmis est un objet.
 
