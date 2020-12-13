@@ -7,8 +7,7 @@ I. [Les variabkles Powershell](https://github.com/EnzoooPNT/Powershell/blob/main
 
 II. [Les variables d'environnement ](https://github.com/EnzoooPNT/Powershell/blob/main/Utilisateurs%26groupes.md)
 
-
-4. [Les applets de commandes “cmdlet”](https://github.com/EnzoooPNT/Powershell/blob/main/Avantage.md)
+3. [Les applets de commandes “cmdlet”](https://github.com/EnzoooPNT/Powershell/blob/main/Avantage.md)
 
 5.[Synthaxe](https://github.com/EnzoooPNT/Powershell/blob/main/Synthaxe.md)
 
