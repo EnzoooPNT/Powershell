@@ -17,7 +17,7 @@ II. [Les variables d'environnement ](https://github.com/EnzoooPNT/Powershell/blo
 ### 3. Les “cmdlet”
 I. [Les applets de commandes “cmdlet”](https://github.com/EnzoooPNT/Powershell/blob/main/Lesappletsdecommandescmdlet.md)
 
-II. [Les commandes de "Découverte"](https://github.com/EnzoooPNT/Powershell/blob/main/Commandecmdlets.md)
+II. [Les commandes de "Découverte"](https://github.com/EnzoooPNT/Powershell/blob/main/commandesDécouverte.md)
 
 ### 4. Mon projet
 I. [Un début difficile](https://github.com/EnzoooPNT/Powershell/blob/main/mesd%C3%A9buts.md)
