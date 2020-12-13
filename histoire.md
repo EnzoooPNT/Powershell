@@ -2,13 +2,7 @@ C'est quoi powershell ?
 
 Windows PowerShell, anciennement Microsoft Command Shell (MSH), nom de code Monad, est une suite logicielle développée par Microsoft qui intègre une interface en ligne de commande, un langage de script nommé PowerShell ainsi qu'un kit de développement. Il est inclus dans Windows 7, Windows 8.1 et Windows 10 (y compris les versions grand public) et s'appuie sur le framework Microsoft .NET.
 
-Quelques dates..
 
-- À l'origine, il était prévu que l'environnement Windows PowerShell soit inclus dans Windows Vista, mais finalement les deux logiciels ont été disjoints. Microsoft a publié une version beta le 11 septembre 2005.
-
--La version finale a été publiée le 14 novembre 2006.
-
--Depuis le 24 mars 2009, Windows PowerShell 1.0 pour Windows XP et Vista est distribué comme une mise à jour logicielle facultative par le service Windows Update de Microsoft. Powershell est intégré nativement dans Windows 7 en version 2.0
 
 Pourquoi utiliser powershell ?
 
