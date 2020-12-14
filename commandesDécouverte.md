@@ -15,4 +15,4 @@ Get-Module	: Liste les “modules” actuellement chargés
 Get-PSSnapin	: Liste les “snapins” actuellement chargés
 
 
-Maitrisées, ces applets de commandes* devraient nous permettres de maitrisé les bases de Powershell.
+Maitrisées, ces applets de commandes devraient nous permettres de maitrisé les bases de Powershell.
