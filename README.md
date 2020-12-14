@@ -31,7 +31,7 @@ II. [Leurs fonctionnements](https://github.com/EnzoooPNT/Powershell/blob/main/fo
 
 ### 5. Les pipelines
 
-I. []()
+I. [C'est quoi les pipelines ?]()
 
 ### 6. Mon projet
 I. [Un début difficile](https://github.com/EnzoooPNT/Powershell/blob/main/mesd%C3%A9buts.md)
