@@ -25,7 +25,9 @@ IV. [Les paramètres](https://github.com/EnzoooPNT/Powershell/blob/main/paramèt
 
 ### 4. Les boucles "for"
 
-I. [Petite présentation]()
+I. [Petite présentation](https://github.com/EnzoooPNT/Powershell/blob/main/PetitePrésentation.md)
+
+II. []()
 
 ### 5. Mon projet
 I. [Un début difficile](https://github.com/EnzoooPNT/Powershell/blob/main/mesd%C3%A9buts.md)
