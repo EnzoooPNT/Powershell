@@ -29,7 +29,11 @@ I. [Petite présentation](https://github.com/EnzoooPNT/Powershell/blob/main/Peti
 
 II. [Leurs fonctionnements](https://github.com/EnzoooPNT/Powershell/blob/main/fonctionnementbouclesfor.md)
 
-### 5. Mon projet
+### 5. Les pipelines
+
+I. []()
+
+### 6. Mon projet
 I. [Un début difficile](https://github.com/EnzoooPNT/Powershell/blob/main/mesd%C3%A9buts.md)
 
 II. [Mon premier script (TP)](https://github.com/EnzoooPNT/Powershell/blob/main/directives.md)
