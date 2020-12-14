@@ -12,7 +12,7 @@ IV. [Shell ou Powershell ?](https://github.com/EnzoooPNT/Powershell/blob/main/Sh
 ### 2. Les variables
 I. [Les variables Powershell](https://github.com/EnzoooPNT/Powershell/blob/main/LesVariables.md)
 
-II. [Les variables d'environnement ](https://github.com/EnzoooPNT/Powershell/blob/main/Utilisateurs%26groupes.md)
+II. [Les variables d'environnement ](https://github.com/EnzoooPNT/Powershell/blob/main/variables%20d'environnements.md)
 
 ### 3. Les “cmdlet”
 I. [Les applets de commandes “cmdlet”](https://github.com/EnzoooPNT/Powershell/blob/main/Lesappletsdecommandescmdlet.md)
