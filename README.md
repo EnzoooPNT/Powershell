@@ -27,7 +27,7 @@ IV. [Les paramètres](https://github.com/EnzoooPNT/Powershell/blob/main/paramèt
 
 I. [Petite présentation](https://github.com/EnzoooPNT/Powershell/blob/main/PetitePrésentation.md)
 
-II. [Leurs fonctionnements]()
+II. [Leurs fonctionnements](https://github.com/EnzoooPNT/Powershell/blob/main/fonctionnementbouclesfor.md)
 
 ### 5. Mon projet
 I. [Un début difficile](https://github.com/EnzoooPNT/Powershell/blob/main/mesd%C3%A9buts.md)
