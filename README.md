@@ -10,7 +10,7 @@ III. [Pourquoi utiliser Powershell ?](https://github.com/EnzoooPNT/Powershell/bl
 IV. [Shell ou Powershell ?](https://github.com/EnzoooPNT/Powershell/blob/main/ShellPowershell.md)
 
 ### 2. Les variables
-I. [Les variables Powershell](https://github.com/EnzoooPNT/Powershell/blob/main/commandes.md)
+I. [Les variables Powershell](https://github.com/EnzoooPNT/Powershell/blob/main/LesVariables.md)
 
 II. [Les variables d'environnement ](https://github.com/EnzoooPNT/Powershell/blob/main/Utilisateurs%26groupes.md)
 
