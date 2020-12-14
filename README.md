@@ -36,4 +36,4 @@ I. [C'est quoi les pipelines ?](https://github.com/EnzoooPNT/Powershell/blob/mai
 ### 6. Mon projet
 I. [Un début difficile](https://github.com/EnzoooPNT/Powershell/blob/main/DébutDifficile.md)
 
-II. [Mon premier script (TP)](https://github.com/EnzoooPNT/Powershell/blob/main/directives.md)
+II. [Mon premier script en Powershell (TP)](https://github.com/EnzoooPNT/Powershell/blob/main/premierscript(TP).md)
