@@ -19,7 +19,7 @@ I. [Les applets de commandes “cmdlet”](https://github.com/EnzoooPNT/Powershe
 
 II. [Les commandes de "Découverte"](https://github.com/EnzoooPNT/Powershell/blob/main/commandesDécouverte.md)
 
-III. [Format de "cmdlet"](https://github.com/EnzoooPNT/Powershell/blob/main/Formatcmdlet.md)
+III. [Les différents formats](https://github.com/EnzoooPNT/Powershell/blob/main/Formatcmdlet.md)
 
 IV. [Les paramètres](https://github.com/EnzoooPNT/Powershell/blob/main/paramètrecmdlet.md)
 
