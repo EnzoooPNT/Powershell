@@ -21,7 +21,7 @@ II. [Les commandes de "Découverte"](https://github.com/EnzoooPNT/Powershell/blo
 
 III. [Format de "cmdlet"](https://github.com/EnzoooPNT/Powershell/blob/main/Formatcmdlet.md)
 
-IV. [Les paramètres]()
+IV. [Les paramètres](https://github.com/EnzoooPNT/Powershell/blob/main/paramètrecmdlet.md)
 
 ### 4. Mon projet
 I. [Un début difficile](https://github.com/EnzoooPNT/Powershell/blob/main/mesd%C3%A9buts.md)
