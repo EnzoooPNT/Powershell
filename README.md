@@ -23,7 +23,11 @@ III. [Les différents formats](https://github.com/EnzoooPNT/Powershell/blob/main
 
 IV. [Les paramètres](https://github.com/EnzoooPNT/Powershell/blob/main/paramètrecmdlet.md)
 
-### 4. Mon projet
+### 4. Les boucles "for"
+
+I. [Petite présentation]()
+
+### 5. Mon projet
 I. [Un début difficile](https://github.com/EnzoooPNT/Powershell/blob/main/mesd%C3%A9buts.md)
 
 II. [Mon premier script (TP)](https://github.com/EnzoooPNT/Powershell/blob/main/directives.md)
