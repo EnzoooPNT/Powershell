@@ -13,3 +13,5 @@ Stop — pour arrêter quelque chose en cours d’exécution
 Out — pour générer quelque chose
 
 New — pour créer quelque chose (« new » n’est pas un verbe, mais il fonctionne comme un verbe)
+
+![](https://github.com/EnzoooPNT/Powershell/blob/main/IMAGE/powershell%20logo.jpg)
