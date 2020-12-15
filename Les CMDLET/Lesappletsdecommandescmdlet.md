@@ -7,3 +7,5 @@ A quoi sert cette association “verbe”-“nom” ?
 -Elles sont destiné à nous faciliter la mémorisation.
 
 ![](https://github.com/EnzoooPNT/Powershell/blob/main/IMAGE/%20applets%20de%20commande%20cmdlet.png)
+
+![](https://github.com/EnzoooPNT/Powershell/blob/main/IMAGE/powershell%20logo.jpg)
