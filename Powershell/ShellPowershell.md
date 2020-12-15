@@ -1,5 +1,7 @@
 Powershell ou shell ? 
 
+![](https://github.com/EnzoooPNT/Powershell/blob/main/IMAGE/powershell%20logo.jpg)
+
 -PowerShell est superficiellement similaire aux shells Unix. Il a des alias pour la plupart des commandes auxquelles vous êtes habitué sous Unix, comme ls, rm, cp, mv, etc. Cependant, la façon dont les applets de commande derrière les alias fonctionnent est assez différente.
 
 -Dans un shell * nix, tout est basé sur du texte, donc la sortie d'une commande peut être redirigée vers une autre, mais le programme récepteur doit savoir comment analyser / interpréter le texte du pipeline. C'est la principale différence entre les shells PowerShell et * nix ... dans PowerShell, tout ce qui est transmis est un objet.
