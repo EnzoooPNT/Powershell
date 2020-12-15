@@ -67,6 +67,7 @@ Il nous reste plsu qu'à envoyer un email au help desk afin de lui indiquer la l
 
 LE SCRIPT:
 
+'''
 $smtpServer = "mail.domaine.local"
 $from = "DisableADAccount <powershell@domaine.local>"
 $to = "Helpdesk <helpdesk@domaine.local>"
@@ -82,6 +83,7 @@ $body = "
       </body>
 </html>"
 
+'''
 Send-MailMessage -smtpserver $smtpserver -from $from -to $to -subject $subject -body $body -bodyasHTML -priority High
 
 PHOTO
