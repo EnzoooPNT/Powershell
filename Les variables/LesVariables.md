@@ -1,4 +1,4 @@
-Les variables dans Powershell:
+Les variables dans Powershell :
 
 A quoi servent-elles ?
 
