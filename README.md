@@ -38,7 +38,7 @@ II. [Leurs fonctionnements](https://github.com/EnzoooPNT/Powershell/blob/main/Le
 ### 6. Mon projet
 I. [Un début difficile](https://github.com/EnzoooPNT/Powershell/blob/main/Mon%20projet/DébutDifficile.md)
 
-II. [Mon premier script en Powershell TP 1](https://github.com/EnzoooPNT/Powershell/blob/main/Mon%20projet/Script%201%20TP%20powershell.ps1)
+II. [Mon premier script en Powershell (TP n°1)](https://github.com/EnzoooPNT/Powershell/blob/main/Mon%20projet/Script%201%20TP%20powershell.ps1)
 
 ### Annexe
 
