@@ -1,5 +1,6 @@
-Pour bien débuter en Powershell, je vais vous parler des commandes qu’il vous faudra impérativement maîtriser au plus vite. Les voici :
+![](https://github.com/EnzoooPNT/Powershell/blob/main/IMAGE/découverte.jpg)
 
+Pour bien débuter en Powershell, je vais vous parler des commandes qu’il vous faudra impérativement maîtriser au plus vite. Les voici :
 
 Cmdlet : Description
 Get-Command	: Informations de base sur les commandes
@@ -16,3 +17,5 @@ Get-PSSnapin	: Liste les “snapins” actuellement chargés
 
 
 Maitrisées, ces applets de commandes devraient nous permettres de maitrisé les bases de Powershell.
+
+![](https://github.com/EnzoooPNT/Powershell/blob/main/IMAGE/powershell%20logo.jpg)
