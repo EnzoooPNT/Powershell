@@ -1,7 +1,7 @@
 # Powershell
 ## Sommaire 
 ### 1. Powershell
-I. [C'est quoi Powershell ?](https://github.com/EnzoooPNT/Powershell/blob/main/histoire.md)
+I. [C'est quoi Powershell ?](https://github.com/EnzoooPNT/Powershell/blob/main/Powershell/histoire.md)
 
 II. [Quelques dates..](https://github.com/EnzoooPNT/Powershell/blob/main/dates.md)
 
