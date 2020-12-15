@@ -1,5 +1,7 @@
 Les variables dans Powershell:
 
+(![](https://github.com/EnzoooPNT/Powershell/blob/main/IMAGE/powershell%20logo.jpg)
+
 A quoi servent-elles ?
 
 Les variables sont utilisées pour stocker des valeurs.
