@@ -1,5 +1,7 @@
 C'est quoi les variables d'environnement ?
 
+![](https://github.com/EnzoooPNT/Powershell/blob/main/IMAGE/variables%20d'environnement.jpg)
+
 Les variables d’environnement stockent des informations sur l’environnement du système d’exploitation. Ces informations incluent des détails tels que le chemin d’accès du système d’exploitation, le nombre de processeurs utilisés par le système d’exploitation et l’emplacement des dossiers temporaires.
 
 Les variables d’environnement stockent les données utilisées par le système d’exploitation et d’autres programmes. Par exemple, la WINDIR variable d’environnement contient l’emplacement du répertoire d’installation de Windows. Les programmes peuvent interroger la valeur de cette variable pour déterminer où se trouvent les fichiers de système d’exploitation Windows.
