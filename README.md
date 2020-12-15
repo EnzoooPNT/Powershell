@@ -23,17 +23,17 @@ III. [Les différents formats](https://github.com/EnzoooPNT/Powershell/blob/main
 
 IV. [Les paramètres](https://github.com/EnzoooPNT/Powershell/blob/main/Les%20CMDLET/paramètrecmdlet.md)
 
-### 4. Les boucles "for"
-
-I. [Petite présentation](https://github.com/EnzoooPNT/Powershell/blob/main/Les%20boucles%20%22for%22/PetitePrésentation.md)
-
-II. [Leurs fonctionnements](https://github.com/EnzoooPNT/Powershell/blob/main/Les%20boucles%20%22for%22/fonctionnementbouclesfor.md)
-
-### 5. Les pipelines
+### 4. Les pipelines
 
 I. [C'est quoi les pipelines ?](https://github.com/EnzoooPNT/Powershell/blob/main/Les%20pipelines/lespipelineC'estquoi.md)
 
 II. [Quelques exemples concrets !](https://github.com/EnzoooPNT/Powershell/blob/main/Les%20pipelines/sansetavecpipelines.md)
+
+### 5. Les boucles "for"
+
+I. [Petite présentation](https://github.com/EnzoooPNT/Powershell/blob/main/Les%20boucles%20%22for%22/PetitePrésentation.md)
+
+II. [Leurs fonctionnements](https://github.com/EnzoooPNT/Powershell/blob/main/Les%20boucles%20%22for%22/fonctionnementbouclesfor.md)
 
 ### 6. Mon projet
 I. [Un début difficile](https://github.com/EnzoooPNT/Powershell/blob/main/Mon%20projet/DébutDifficile.md)
