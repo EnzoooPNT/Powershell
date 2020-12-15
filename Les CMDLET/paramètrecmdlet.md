@@ -6,3 +6,5 @@ Chaque cmdlet est assorti de plusieurs paramètres qui permettent de personnalis
 Exemple :
 
 ![](https://github.com/EnzoooPNT/Powershell/blob/main/IMAGE/parametre%20cmdlet.png)
+
+![](https://github.com/EnzoooPNT/Powershell/blob/main/IMAGE/powershell%20logo.jpg)
