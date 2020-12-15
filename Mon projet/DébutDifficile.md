@@ -25,6 +25,6 @@ Il y a deux solutions pour ouvrir powershell directment sur mon terminal .
 En voulant commencer mon premier script, la commande ... pour rentrer dans le ... de powershell ne voulais pas s'exécuter.
 J'ai donc finit mon apprentissage de powershell sur mac et suis-je passé sur mon bootcamp en version windows pour commencer mon premier script !
 
-Un début difficil qui m'a quand même servi d'apprentissage pour la suite, et m'a permis de d'écouvrir un bon pannels de commandes malgrés tout!
+Un début difficil qui m'a quand même servi d'apprentissage pour la suite, et m'a permis de d'écouvrir un bon pannel de commandes malgrés tout!
 
 ![](https://github.com/EnzoooPNT/Powershell/blob/main/IMAGE/powershell%20logo.jpg)
