@@ -18,13 +18,9 @@ Il y a deux solutions pour ouvrir powershell directment sur mon terminal .
 
 -La première  est de  rentrer dans le terminal  : /usr/local/microsoft/powershell/7/pwsh 
 
-PHOTO
-
 -La deuxième est d'ouvrir directement l'application "powershell" sur laquelle va s'exécuter tout la commande "/usr/local/microsoft/powershell/7/pwsh" (ce qui est à mon goût la solution la plus pratique et rapide).
 
-PHOTO 
-
-Tout ne pouvais pas bien se passer...
+...mais tout ne pouvais pas se passer comme prévu...
 
 En voulant commencer mon premier script, la commande ... pour rentrer dans le ... de powershell ne voulais pas s'exécuter.
 J'ai donc finit mon apprentissage de powershell sur mac et suis-je passé sur mon bootcamp en version windows pour commencer mon premier script !
