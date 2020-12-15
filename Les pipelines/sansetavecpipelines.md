@@ -16,3 +16,5 @@ Get-AdUser -filter * -Properties mail | select mail
 Le pipe, comme son nom l'indique, permet d'agir comme un tuyau. Dans cet exemple, pour chaque utilisateur que Get-ADUser renvoie, on affiche son
 adresse mail.
 Le moteur Powershell va donc traiter de multiples instructions en un seul appel.
+
+![](https://github.com/EnzoooPNT/Powershell/blob/main/IMAGE/powershell%20logo.jpg)
