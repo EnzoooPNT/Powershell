@@ -38,4 +38,4 @@ II. [Quelques exemples concrets !](https://github.com/EnzoooPNT/Powershell/blob/
 ### 6. Mon projet
 I. [Un début difficile](https://github.com/EnzoooPNT/Powershell/blob/main/Mon%20projet/DébutDifficile.md)
 
-II. [Mon premier script en Powershell (TP)](https://github.com/EnzoooPNT/Powershell/blob/main/Mon%20projet/premierscript(TP).md)
+II. [Mon premier script en Powershell TP 1](https://github.com/EnzoooPNT/Powershell/blob/main/Mon%20projet/Script%201%20TP%20powershell.ps1)
