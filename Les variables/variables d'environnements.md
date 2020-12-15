@@ -19,3 +19,5 @@ La portée du processus contient les variables d’environnement disponibles dan
 Vous pouvez afficher et modifier les valeurs des variables d’environnement sans utiliser une applet de commande à l’aide d’une syntaxe de variable avec le fournisseur de l’environnement. 
 
 Pour afficher la valeur d’une variable d’environnement, utilisez la syntaxe suivante :  variable-name
+
+![](https://github.com/EnzoooPNT/Powershell/blob/main/IMAGE/powershell%20logo.jpg)
