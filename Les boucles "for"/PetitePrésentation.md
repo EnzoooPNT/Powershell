@@ -1,5 +1,7 @@
 C'est quoi une boucle for ? 
 
+![](https://github.com/EnzoooPNT/Powershell/blob/main/IMAGE/powershell%20logo.jpg)
+
 Une boucle est une séquence d'instructions répétée continuellement jusqu'à ce qu'une certaine condition soit atteinte. Pouvoir faire exécuter
 à plusieurs reprises un bloc de code par votre programme est l’une des tâches les plus élémentaires mais utiles de la programmation.
 
